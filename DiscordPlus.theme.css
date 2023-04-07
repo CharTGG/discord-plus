@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://www.hdwallpapers.in/thumbs/2020/new_york_manhattan_city_buildings_with_lights_during_night_hd_new_york-t2.jpg);
+  --dplus-backdrop: url(https://images.wallpapersden.com/image/download/new-york-buildings-night_ZmxmZm6UmZqaraWkpJRmbmdlrWZlbWU.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
